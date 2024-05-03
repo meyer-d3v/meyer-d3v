@@ -21,7 +21,7 @@ I am an undergraduate with a strong ambition to be a computer scientist.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=meyer-d3v&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
+### 👁 Profile Views
 [![](https://visitcount.itsvg.in/api?id=meyer-d3v&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
