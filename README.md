@@ -2,7 +2,7 @@
 
 Aspiring Software Developer | 16 | Grade 12
 
-Hi, I'm Dean Meyer, a passionate and dedicated programmer with a strong foundation in multiple programming languages, including C++, Python, Delphi, HTML, CSS, and Java. With a keen interest in mobile app development, I've successfully created two Android applications, showcasing my skills in bringing ideas to life.
+Hi, I'm Dean Meyer, a passionate and dedicated programmer with a strong foundation in multiple programming languages, including C++, Python, Delphi, HTML, CSS, JavaScript and Java. With a keen interest in mobile app development, I've successfully created two Android applications, showcasing my skills in bringing ideas to life.
 
 As a high school student, I'm committed to continuously learning and improving my craft, with the ultimate goal of making a meaningful impact in the tech industry. When I'm not coding, you can find me exploring new technologies, collaborating with like-minded Individuals, or sharing my experiences on social media.
 
