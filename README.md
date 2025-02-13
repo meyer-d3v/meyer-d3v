@@ -1,6 +1,6 @@
 # 💫 Dean Meyer
 
-Aspiring Software Developer | 16 | Grade 12
+Aspiring Software Developer | 17 | First Year IT Student
 
 Hi, I'm Dean Meyer, a passionate and dedicated programmer with a strong foundation in multiple programming languages, including C++, Python, Delphi, HTML, CSS, JavaScript and Java. With a keen interest in mobile app development, I've successfully created two Android applications, showcasing my skills in bringing ideas to life.
 
