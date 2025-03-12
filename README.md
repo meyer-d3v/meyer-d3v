@@ -4,7 +4,9 @@ Aspiring Software Developer | 17 | First-Year IT Student
 
 Hi, I'm Dean Meyer. I'm a passionate and dedicated programmer with a strong foundation in multiple programming languages, including C++, Python, Delphi, HTML, CSS, JavaScript, and Java. I'm also keen on mobile app development, and I've successfully created two Android applications, showcasing my skills in bringing ideas to life.
 
-As a university student, I'm committed to continuously learning and improving my craft, with the ultimate goal of making a meaningful impact in the tech industry. When I'm not coding, you can find me exploring new technologies, collaborating with like-minded Individuals, or sharing my experiences on social media.
+As a university student, I'm committed to continuously learning and improving my craft. I've earned my first freeCodeCamp certificate and am working toward more to expand my knowledge. My ultimate goal is to make a meaningful impact in the tech industry.
+
+When I'm not coding, you can find me exploring new technologies, collaborating with like-minded individuals, or sharing my experiences on social media.
 
 My long-term goal is to become a software engineer at a tech company and work on innovative and impactful projects. I'm particularly interested in machine learning and artificial intelligence, and I hope to continue learning and exploring these fields in the future.
 
