@@ -1,14 +1,18 @@
-# 💫 Dean Meyer
+# 🧠 Dean Meyer
 
-Aspiring Software Developer | 17 | First-Year IT Student
+Junior Full-Stack Software Developer | 18 | Real-World Projects & Startup Experience
 
-Hi, I'm Dean Meyer. I'm a passionate and dedicated programmer with a strong foundation in multiple programming languages, including C++, Python, Delphi, HTML, CSS, JavaScript, and Java. I'm also keen on mobile app development, and I've successfully created two Android applications, showcasing my skills in bringing ideas to life.
+I’m Dean Meyer, a junior software developer passionate about building real-world solutions. At 18, I’ve already worked with multiple clients, built and deployed full-stack mobile apps, and joined a startup team using React Native and Firebase.
 
-As a university student, I'm committed to continuously learning and improving my craft. I've earned my first freeCodeCamp certificate and am working toward more to expand my knowledge. My ultimate goal is to make a meaningful impact in the tech industry.
+I'm currently pursuing my IT degree while working on freelance and startup-based software projects. My focus is on clean UI/UX, scalable backends, and solving real problems through code.
 
-When I'm not coding, you can find me exploring new technologies, collaborating with like-minded individuals, or sharing my experiences on social media.
+✅ 30+ Industry Certifications  
+📱 Creator of a production-ready HVAC audit app (Firestore, Auth, CRUD, PDF export)  
+💼 Working with clients & part of a university-driven dev team  
+🛠️ Tech Stack: React Native, Firebase, TypeScript, JavaScript, Java, Python  
+🎯 Goal: Become a top-tier software engineer solving impactful challenges in tech
 
-My long-term goal is to become a software engineer at a tech company and work on innovative and impactful projects. I'm particularly interested in machine learning and artificial intelligence, and I hope to continue learning and exploring these fields in the future.
+Let’s build something that matters.
 
 Connect with me:
 
