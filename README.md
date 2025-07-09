@@ -7,7 +7,7 @@ I'm currently pursuing my IT degree while working on freelance and startup-based
 
 ✅ 30+ Industry Certifications  
 📱 Creator of a production-ready HVAC audit app (Firestore, Auth, CRUD, PDF export)  
-🛠️ Tech Stack: React Native, Firebase, TypeScript, JavaScript, Java, Python 
+🛠️ Tech Stack: React Native, Firebase, TypeScript, JavaScript, Java, Python  
 💼 Working with clients & part of a university-driven dev team 
 🎯 Goal: Become a top-tier software engineer solving impactful challenges in tech
 
