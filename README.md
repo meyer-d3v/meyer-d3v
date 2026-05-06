@@ -1,6 +1,6 @@
 # 🧠 Dean Meyer
 
-Junior Full-Stack Software Developer | 18 | Real-World Projects & Startup Experience
+Full-Stack Software Developer | 18 | Real-World Projects & Startup Experience
 
 I’m Dean Meyer, a junior software developer passionate about building real-world solutions. At 18, I’ve already worked with multiple clients, built and deployed full-stack mobile apps.
 I'm currently pursuing my IT diploma while working on freelance and startup-based software projects. My focus is on clean UI/UX, scalable backends, and solving real problems through code, and joined a startup team using React Native and Firebase.
