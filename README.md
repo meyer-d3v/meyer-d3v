@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 🧠 Dean Meyer
 
 **Full-Stack Software Developer | Co-Founder & CTO @ Ambitrove Innovation | 18**
