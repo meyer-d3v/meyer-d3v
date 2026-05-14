@@ -1,5 +1,41 @@
 # 💫 About Me:
-# 🧠 Dean Meyer<br><br>**Full-Stack Software Developer | Co-Founder & CTO @ Ambitrove Innovation**<br><br>I’m a software developer and tech entrepreneur passionate about architecting scalable, real-world solutions. At 18, I balance my second year of ICT studies with co-founding and driving the technical strategy at **Ambitrove Innovation**. <br><br>Whether I'm delivering digital modernization workflows for clients, architecting enterprise SaaS platforms, or crafting clean UI/UX, my focus is always on solving complex problems through highly maintainable code.<br><br>---<br><br>### 🚀 What I'm Up To<br>* 💼 **Co-Founder & CTO at Ambitrove Innovation:** Leading full-stack development, client digital transformation, and custom end-to-end software delivery.<br>* 🛠️ **Building Enterprise SaaS & Tools:** Architecting robust platforms like the **Nexus Operations Portal** and streamlined desktop/web utilities using React, Vite, and Electron.<br>* 📱 **Proven Production Experience:** Creator of complete client solutions, including a fully deployed HVAC audit app featuring complex state management, Firestore architecture, role-based Auth, and automated PDF exports.<br>* 🎓 **Academics & Upskilling:** 2nd-year ICT student holding **30+ industry certifications** spanning systems thinking, modern frontend frameworks, and software architecture.<br><br>---<br><br>### 💻 Tech Stack & Tools<br>* **Core Languages:** TypeScript, JavaScript, Java, Python<br>* **Frontend & Mobile:** React, React Native, Vite, HTML5/CSS3<br>* **Backend & BaaS:** Firebase (Firestore, Auth, Cloud Functions), Node.js<br>* **Desktop & Workflow:** Electron, Git, REST APIs, Clean UI/UX Design<br><br>---<br><br>### 🎯 Ambitions<br>Scaling high-impact software products, delivering top-tier engineering solutions, and continually pushing the boundaries of modern application architecture.<br><br>**Let’s build something that matters.**<br><br>---<br><br>### 📫 Connect with me:<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)<br>[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)<br>[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+# 🧠 Dean Meyer
+
+**Full-Stack Software Developer | Co-Founder & CTO @ Ambitrove Innovation | 18**
+
+I’m a software developer and tech entrepreneur passionate about architecting scalable, real-world solutions. At 18, I balance my second year of ICT studies with co-founding and driving the technical strategy at **Ambitrove Innovation**. 
+
+Whether I'm delivering digital modernization workflows for clients, architecting enterprise SaaS platforms, or crafting clean UI/UX, my focus is always on solving complex problems through highly maintainable code.
+
+---
+
+### 🚀 What I'm Up To
+* 💼 **Co-Founder & CTO at Ambitrove Innovation:** Leading full-stack development, client digital transformation, and custom end-to-end software delivery.
+* 🛠️ **Building Enterprise SaaS & Tools:** Architecting robust platforms like the **Nexus Operations Portal** and streamlined desktop/web utilities using React, Vite, and Electron.
+* 📱 **Proven Production Experience:** Creator of complete client solutions, including a fully deployed HVAC audit app featuring complex state management, Firestore architecture, role-based Auth, and automated PDF exports.
+* 🎓 **Academics & Upskilling:** 2nd-year ICT student holding **30+ industry certifications** spanning systems thinking, modern frontend frameworks, and software architecture.
+
+---
+
+### 💻 Tech Stack & Tools
+* **Core Languages:** TypeScript, JavaScript, Java, Python
+* **Frontend & Mobile:** React, React Native, Vite, HTML5/CSS3
+* **Backend & BaaS:** Firebase (Firestore, Auth, Cloud Functions), Node.js
+* **Desktop & Workflow:** Electron, Git, REST APIs, Clean UI/UX Design
+
+---
+
+### 🎯 Ambitions
+Scaling high-impact software products, delivering top-tier engineering solutions, and continually pushing the boundaries of modern application architecture.
+
+**Let’s build something that matters.**
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 
 ## 🌐 Socials:
