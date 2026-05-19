@@ -56,8 +56,8 @@ Scaling high-impact software products, delivering top-tier engineering solutions
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=meyer-d3v&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/@DeanMeyer0) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/@DeanMeyer0) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
